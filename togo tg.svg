@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="150.68591mm"
+   height="148.5603mm"
+   viewBox="0 0 150.68591 148.5603"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="togo tg.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.33071229"
+     inkscape:cx="-244.92588"
+     inkscape:cy="151.18882"
+     inkscape:window-width="1229"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient21643">
+      <stop
+         style="stop-color:#878787;stop-opacity:0.66525424;"
+         offset="0.0163185"
+         id="stop21639" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.40254238;"
+         offset="0.26868188"
+         id="stop21641" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient13719">
+      <stop
+         style="stop-color:#0dfff5;stop-opacity:1;"
+         offset="0.21282053"
+         id="stop13715" />
+      <stop
+         style="stop-color:#001817;stop-opacity:0;"
+         offset="1"
+         id="stop13717" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient7694">
+      <stop
+         style="stop-color:#0efff6;stop-opacity:1;"
+         offset="0.10298015"
+         id="stop7690" />
+      <stop
+         style="stop-color:#002b2d;stop-opacity:0;"
+         offset="0.51998967"
+         id="stop7692" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient7670"
+       inkscape:swatch="gradient">
+      <stop
+         style="stop-color:#29703a;stop-opacity:1;"
+         offset="0"
+         id="stop7666" />
+      <stop
+         style="stop-color:#197897;stop-opacity:0;"
+         offset="1"
+         id="stop7668" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6061">
+      <stop
+         style="stop-color:#777777;stop-opacity:0.69915253;"
+         offset="0"
+         id="stop6059" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.02118644;"
+         offset="0.29298496"
+         id="stop6057" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2190"
+       is_visible="true"
+       lpeversion="1" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6061"
+       id="linearGradient6063"
+       x1="155.65715"
+       y1="58.367298"
+       x2="156.43352"
+       y2="112.40219"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0442567,0,0,1.0442567,-33.598555,13.938187)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7694"
+       id="linearGradient7696"
+       x1="86.08194"
+       y1="112.28493"
+       x2="86.323433"
+       y2="87.455627"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2094223,0,0,1.2094224,-13.340366,-34.7331)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient13719"
+       id="linearGradient13721"
+       x1="97.584442"
+       y1="135.63029"
+       x2="97.624161"
+       y2="117.84495"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0597667,0,0,1.0597667,23.037029,-11.171618)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient21643"
+       id="linearGradient21645"
+       x1="103.85476"
+       y1="37.128456"
+       x2="103.34438"
+       y2="100.84457"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0014631,0,0,1.001463,-25.391193,17.203211)" />
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-21.497139,-22.628571)">
+    <ellipse
+       style="fill:#000000;stroke-width:7.62095;paint-order:stroke fill markers"
+       id="path340"
+       cx="96.840096"
+       cy="96.908722"
+       rx="75.342957"
+       ry="74.280151"
+       inkscape:label="rond" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:130.118px;font-family:'Space Ranger';-inkscape-font-specification:'Space Ranger, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#404040;fill-opacity:1;stroke:#666666;stroke-width:1.415;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       x="33.532402"
+       y="119.54243"
+       id="text556"
+       transform="scale(0.95833275,1.0434789)"
+       inkscape:label="T"><tspan
+         sodipodi:role="line"
+         id="tspan554"
+         style="fill:#404040;fill-opacity:1;stroke:#666666;stroke-width:1.415;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         x="33.532402"
+         y="119.54243">T</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:130.309px;font-family:'Space Ranger';-inkscape-font-specification:'Space Ranger, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:url(#linearGradient21645);fill-opacity:1;stroke-width:9.57041;paint-order:stroke fill markers"
+       x="33.950184"
+       y="118.92859"
+       id="text556-5"
+       transform="scale(0.95185031,1.0505854)"
+       inkscape:label="T ombre"><tspan
+         sodipodi:role="line"
+         id="tspan554-3"
+         style="fill:url(#linearGradient21645);fill-opacity:1;stroke-width:9.5704"
+         x="33.950184"
+         y="118.92859">T</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:153.043px;font-family:'Space Ranger';-inkscape-font-specification:'Space Ranger, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:url(#linearGradient7696);fill-opacity:1;fill-rule:evenodd;stroke-width:11.2401;paint-order:stroke fill markers"
+       x="39.891434"
+       y="101.24422"
+       id="text556-9"
+       transform="scale(0.81079874,1.2333517)"
+       inkscape:label="T light"><tspan
+         sodipodi:role="line"
+         id="tspan554-1"
+         style="fill:url(#linearGradient7696);fill-opacity:1;fill-rule:evenodd;stroke-width:11.2401"
+         x="39.891434"
+         y="101.24422">T</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:116.457px;font-family:'Space Ranger';-inkscape-font-specification:'Space Ranger, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#2b2b2b;fill-opacity:1;stroke:#5f5f5f;stroke-width:1.415;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       x="88.470863"
+       y="132.21329"
+       id="text664"
+       transform="scale(0.93792978,1.0661779)"
+       inkscape:label="G"><tspan
+         sodipodi:role="line"
+         id="tspan662"
+         style="fill:#2b2b2b;fill-opacity:1;stroke:#5f5f5f;stroke-width:1.415;stroke-dasharray:none;stroke-opacity:1"
+         x="88.470863"
+         y="132.21329">G</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:118.106px;font-family:'Space Ranger';-inkscape-font-specification:'Space Ranger, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:url(#linearGradient13721);fill-opacity:1;stroke-width:8.67424;paint-order:stroke fill markers"
+       x="87.38842"
+       y="133.061"
+       id="text664-8"
+       transform="scale(0.93910245,1.0648465)"
+       inkscape:label="G light"><tspan
+         sodipodi:role="line"
+         id="tspan662-1"
+         style="fill:url(#linearGradient13721);fill-opacity:1;stroke-width:8.67422"
+         x="87.38842"
+         y="133.061">G</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:116.378px;font-family:'Space Ranger';-inkscape-font-specification:'Space Ranger, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:url(#linearGradient6063);fill-opacity:1;stroke-width:8.547;stroke-dasharray:none;paint-order:stroke fill markers"
+       x="88.299973"
+       y="132.22914"
+       id="text664-9"
+       transform="scale(0.93878425,1.0652075)"
+       inkscape:label="G ombre"><tspan
+         sodipodi:role="line"
+         id="tspan662-9"
+         style="fill:url(#linearGradient6063);fill-opacity:1;stroke-width:8.547;stroke-dasharray:none"
+         x="88.299973"
+         y="132.22914">G</tspan></text>
+  </g>
+</svg>

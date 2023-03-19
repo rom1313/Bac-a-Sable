@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "build": "esbuild test.js --bundle --minify --outfile=bundletest.js --watch"
+  },
+  "dependencies": {
+    "@rom13/genius": "^1.2.29",
+    "esbuild": "^0.17.12",
+    "html-to-image": "^1.11.11",
+    "html-to-img": "^1.1.1"
+  }
+}

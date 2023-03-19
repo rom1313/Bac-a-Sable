@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HELLO</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h1 id="titre" draggable="true">Romain</h1>
+    <div id="zone"></div>
+    <img class="freddy" src="img/freddy.png" alt="" srcset="">
+    <form>
+        <input id="x1" type="range" value="100" min="0" max="500">
+        <input id="x2" type="range" value="100" min="0" max="500">
+        <input id="y" type="range" value="100" min="0" max="500">
+        <input id="color" type="color" value="#ff8d4b">
+    </form>
+
+    <div id="blockjeu">
+        <div class="emplacement"></div>
+        <div class="emplacement"></div>
+        <div class="emplacement"></div>
+        <div class="emplacement"></div>
+        <div class="emplacement"></div>
+        <div class="emplacement"></div>
+        <div class="emplacement"></div>
+        <div class="emplacement"></div>
+        <div class="emplacement"></div>
+    </div>
+    <script src="https://unpkg.com/@rom13/genius-browser@1.0.53/index.js"></script>
+    <script src="../index.js"></script>
+    <script>
+        document.querySelector("h1").addEventListener("dragstart", (e) => {
+            console.log("draggg !");
+            e.dataTransfer.setData("text", e.target.id);
+        })
+        document.querySelector("#zone").addEventListener("dragover", (e) => {
+            e.preventDefault()
+        })
+        document.querySelector("#zone").addEventListener("drop", (e) => {
+            e.preventDefault()
+            let data = e.dataTransfer.getData("text");
+            e.target.appendChild(document.getElementById(data))
+        })
+    </script>
+</body>
+
+</html>

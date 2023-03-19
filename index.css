@@ -1,0 +1,103 @@
+html {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background-color: rgb(255, 255, 255);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-color: rgb(0, 0, 0);
+  text-align: center;
+  margin: 0;
+  box-sizing: border-box;
+  position: relative;
+  height: 100%;
+  width: 100%;
+}
+
+main {
+  position: relative;
+  background-color: rgb(90, 0, 0);
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 10vh;
+  transition: all 1s;
+}
+
+ul {
+  position: fixed;
+  background-color: burlywood;
+  list-style: none;
+  white-space: nowrap;
+  display: flex;
+  flex-direction: row;
+  z-index: 6;
+  flex: 0 1 auto;
+  justify-content: start;
+  column-gap: 5vw;
+  font-size: 120%;
+  box-sizing: border-box;
+  width: 100%;
+  height: fit-content;
+
+  align-items: center;
+
+  margin: auto;
+}
+
+li {
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+
+  padding: 5px;
+  border-radius: 5px;
+}
+form {
+  position: absolute;
+  top: 60vh;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 50vW;
+  height: 50VH;
+  background-color: darkblue;
+  z-index: 6;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+input:invalid{
+    background-color: red;
+}
+
+.card {
+  width: 55vw;
+  height: 30vh;
+  background-color: aqua;
+  border: solid 2px black;
+  display: flex;
+  flex-direction: column;
+  padding: 5px;
+  overflow: hidden;
+  border-radius: 15px;
+  margin: 5px;
+}
+
+footer {
+  background-color: cornflowerblue;
+  display: flex;
+  justify-content: center;
+}
+
+img {
+  width: 3vw;
+  padding: 5px;
+}
+
+p {
+  font-size: 1.2em;
+}

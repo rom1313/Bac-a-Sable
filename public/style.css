@@ -1,0 +1,100 @@
+@keyframes rotation {
+    from {
+        
+        transform: rotate(40deg);
+
+    }
+
+    to {
+     
+        transform: rotate(50deg);
+    }
+
+}
+
+body {
+    text-align: center;
+    user-select: none;
+    -webkit-user-select: none;
+    margin: 0;
+    padding: 0;
+    background-color: bisque;
+    text-align: center;
+}
+
+h1 {
+    -webkit-text-stroke: 1.5px red;
+    color: transparent;
+    filter: drop-shadow(1px 1px 10px red);
+    font-size: 10vh;
+
+
+
+
+
+
+
+}
+#zone{
+    background-color: aquamarine;
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+canvas {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    pointer-events: none;
+    animation: rotation 2s ease-in alternate infinite;
+    -webkit-user-drag: element;
+
+}
+
+.freddy {
+    user-select: none;
+    -webkit-mask-image: url(img/brush.png);
+    mask-image: url(img/brush.png);
+
+    -webkit-mask-position: top left;
+    mask-position: top left;
+
+    -webkit-mask-repeat: no-repeat;
+    mask-repeat: no-repeat;
+
+    -webkit-mask-size: 250px 250px;
+    mask-size: 250px 250px;
+}
+
+
+
+#blockjeu{
+    border-radius: 5px;
+    z-index: 4;
+    background-color: black;
+    height: 500px;
+    width: 500px;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: solid 1px rgb(0, 0, 0);
+    display: grid;
+    grid-template: repeat(3, 1fr) / repeat(3, 1fr);
+
+}
+.emplacement{
+    background-color: rgb(0, 98, 140);
+    border: solid 1px rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 140px;
+ 
+   
+}
